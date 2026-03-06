@@ -1,0 +1,1 @@
+// import { reactive, computed } from 'vue';\n// const state = reactive({ theme: 'light', projects: [], filter: 'all' });\n// function toggleTheme(){ state.theme = state.theme==='light'?'dark':'light'; }\n// export default { state, toggleTheme };
