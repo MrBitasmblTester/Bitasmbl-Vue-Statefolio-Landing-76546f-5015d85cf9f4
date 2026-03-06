@@ -1,0 +1,1 @@
+<template>\n  <footer>\n    <!-- social links, copyright -->\n  </footer>\n</template>\n<script setup>\n// optional props for links\n</script>
