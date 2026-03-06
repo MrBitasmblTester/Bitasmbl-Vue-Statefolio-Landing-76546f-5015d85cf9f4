@@ -1,0 +1,1 @@
+<template>\n  <button @click=\"store.toggleTheme()\">Toggle theme</button>\n</template>\n<script setup>\n// import store from '../store/portfolioStore';\n</script>
