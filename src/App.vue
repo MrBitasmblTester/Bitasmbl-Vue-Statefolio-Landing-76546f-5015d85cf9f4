@@ -1,0 +1,1 @@
+<template>\n  <!-- Header with nav + section components -->\n</template>\n<script setup>\n// import HeroSection from './components/HeroSection.vue';\n</script>\n<style scoped>\n/* basic layout styles */\n</style>
