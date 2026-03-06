@@ -1,0 +1,1 @@
+// export function scrollToId(id){\n//   const el = document.getElementById(id);\n//   if(el) el.scrollIntoView({ behavior: 'smooth' });\n// }
