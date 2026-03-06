@@ -1,0 +1,2 @@
+{
+  \"name\": \"vue-statefolio\",\n  \"scripts\": {\n    \"dev\": \"vite\",\n    \"build\": \"vite build\"\n  },\n  \"dependencies\": {\n    \"vue\": \"^3.0.0\"\n  }\n}
