@@ -1,0 +1,1 @@
+// import { createApp } from 'vue';\n// import App from './App.vue';\n// createApp(App).mount('#app');
