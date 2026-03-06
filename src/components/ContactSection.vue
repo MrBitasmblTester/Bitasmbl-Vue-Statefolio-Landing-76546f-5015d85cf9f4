@@ -1,0 +1,1 @@
+<template>\n  <form @submit.prevent=\"onSubmit\">\n    <!-- v-model fields, show errors -->\n  </form>\n</template>\n<script setup>\n// import { reactive } from 'vue';\n// const form = reactive({ name:'', email:'', message:'' });\n</script>
