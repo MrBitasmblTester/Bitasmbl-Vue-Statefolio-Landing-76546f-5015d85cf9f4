@@ -1,0 +1,1 @@
+<template>\n  <section>\n    <!-- name, title, CTA buttons bound to state -->\n  </section>\n</template>\n<script setup>\n// const name = 'Your Name';\n</script>
