@@ -1,0 +1,1 @@
+<template>\n  <ul>\n    <!-- v-for over filteredProjects -->\n  </ul>\n</template>\n<script setup>\n// import { computed } from 'vue';\n// import store from '../store/portfolioStore';\n// const filteredProjects = computed(()=>{/* filter logic */});\n</script>
