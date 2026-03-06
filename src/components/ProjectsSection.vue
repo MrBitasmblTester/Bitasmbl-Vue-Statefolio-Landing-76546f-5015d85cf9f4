@@ -1,0 +1,1 @@
+<template>\n  <section>\n    <!-- loop projects, emit events to update global state -->\n  </section>\n</template>\n<script setup>\n// const projects = [];\n</script>
